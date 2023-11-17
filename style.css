@@ -1,0 +1,50 @@
+
+
+
+h1{
+    font-size: 200px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.start_mario{
+    font-size: 40px;
+}
+
+.mario_created{
+    font-size: 40px;
+}
+
+.siguaro{
+    font-size:40px;
+    bottom: -90px;
+}
+
+.mario_view{
+    font-size:28px;
+    position: relative;
+    left: 500px;
+    bottom: 720px;
+}
+
+.characters{
+    position:relative;
+    left: 500px;
+    bottom: 700px;
+    font-size: 28px;
+
+
+}
+
+.gameplay{
+    position: relative;
+    left: 60px;
+    font-size: 180px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.gameplay_text{
+    position: relative;
+    left: 60px;
+    font-size: 28px;
+    bottom: -30px;
+}
